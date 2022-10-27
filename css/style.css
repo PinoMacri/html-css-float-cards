@@ -1,0 +1,34 @@
+/*GENERALI*/
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+.container {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.container>p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: rgb(231, 52, 171);
+}
+/*SECTION*/
+.corpo {
+    content: "";
+    clear: both;
+    display: block;
+}
+/*DIV*/
+.styleFloat {
+    background-color: black;
+    color: white;
+    height: 120px;
+    float: left;
+    margin: px;
+    width: calc(100% /3);
+    box-sizing: border-box;
+    border: 10px solid white;
+}
